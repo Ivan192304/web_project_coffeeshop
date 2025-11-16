@@ -234,14 +234,14 @@
   opacity: 0.7;
 }
 
-.form__label--checkbox {
+.form__label-checkbox {
   display: flex;
   align-items: center;
   justify-content: center;
   column-gap: 12px;
   padding-bottom: 120px;
 }
-.form__input--checkbox {
+.form__checkbox-input {
   border-radius: 2px;
   background-color: #2f80ed;
   background-image: url(../images/icon_check.svg);
