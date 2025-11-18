@@ -11,3 +11,5 @@ Cuerpo principal (main): dividido en dos componentes: un apartado de recetas y u
 Pie de página (footer): incorpora la información de contacto y los enlaces correspondientes.
 
 3. Las tecnologías empleadas corresponden principalmente a los fundamentos vistos durante los sprints proporcionados por TripleTen. No obstante, para el desarrollo de este proyecto fue necesario integrar nuevos elementos y propiedades, entre los cuales se destacan: iframe, etiquetas de formulario como form, input y button, así como técnicas de posicionamiento mediante position y control de capas utilizando z-index. Este proyecto representa una primera aproximación a una implementación completa, desarrollada íntegramente desde cero.
+
+4. ![alt text](https://github.com/Ivan192304/web_project_coffeeshop/blob/main/images/funcionalidad.png?raw=true)
